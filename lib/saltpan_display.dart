@@ -78,7 +78,7 @@ class _StudentState extends State<Student> {
               padding: const EdgeInsets.all(8.0),
               child: CircleAvatar(
                 backgroundImage:
-                NetworkImage("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2zWCsIY0WSRNuucyJg9FOlGUCEm5Nom7p_6Y41TV&s"),
+                NetworkImage("your_thinkspeak_link"),
               ),
             ),
           ],
